@@ -1,4 +1,4 @@
-# Project
+# Urban Sound Classification Project
 Urban Sounds Classification
 
 In this project, it is aimed to classify Spectrogram images with the CNN algorithm using the "UrbanSounds8K" data set.
